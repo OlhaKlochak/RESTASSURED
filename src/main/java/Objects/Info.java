@@ -1,4 +1,4 @@
-package JsonObject;
+package Objects;
 
 public class Info {
     public int count;
